@@ -89,3 +89,10 @@ pre .purple{color:#684a86}
 .payload-example .green,
 pre .green{color:#267052}
 
+/* Knowledge repository: keep list copy readable on translucent mint cards. */
+.knowledge-row,
+.knowledge-row p,
+.knowledge-row b{color:#203f35}
+.knowledge-row small{color:#526c62}
+.knowledge-row>span{color:#2f765e}
+
