@@ -1,0 +1,91 @@
+:root{--bg:#eef2eb;--panel:#fffefa;--panel2:#f3f7f0;--line:#d9e3d8;--muted:#708078;--text:#19352f;--purple:#2f765e;--violet:#245f4d;--cyan:#468e72;--green:#2f7b5b;--amber:#a9752d;--red:#b8564f;--shadow:0 10px 30px rgba(26,61,51,.07)}
+body{background:linear-gradient(145deg,#edf2eb,#f8f7f1 55%,#e7efe7);color:var(--text)}.ambient{opacity:.06}.ambient-a{background:#7bb494}.ambient-b{background:#b9caa2}
+.sidebar{background:#123c35;border-color:#275148;color:#ecf5ef}.brand{color:#fff}.brand-mark i{background:linear-gradient(#b9dbc5,#6aa88b)}.brand small,.eyebrow{color:#36775e}.sidebar .brand small{color:#a8caba}.nav-item{color:#a9c4b9}.nav-item span{color:#668f80}.nav-item:hover,.nav-item.active{color:#fff;background:#285a4d;border-color:#376c5e}.nav-item.active{box-shadow:inset 3px 0 #a7d0b5}.nav-item.active span{color:#c5e4d0}.scope-card{background:#173f38;border-color:#3b665b}.scope-card small,.scope-note{color:#9ab9ac}.pulse-dot{background:#8dd0a7;box-shadow:0 0 12px #8dd0a7}
+main{background:transparent}.topbar{background:rgba(255,254,250,.9);border-color:#dce5db;color:#1b3931}.role-pill,.demo-launch,.status-chip,.icon-btn{background:#f8faf6;border-color:#d5e0d5;color:#35544a}.demo-launch{color:#2e7058;border-color:#9fc7ae}.status-chip i{background:#4b9b71;box-shadow:0 0 8px #8fcaa7}.package span{color:#7b8a83}
+.hero-copy h1,.page-title h1{color:#173a31}.hero-copy h1 em{background:linear-gradient(90deg,#26644f,#67a380);background-clip:text}.lede,.page-title>div>p:last-child{color:#66776f}.boundary{background:#e9f2e8;border-color:#4a876d;color:#567067}.boundary b{color:#234d40}.firewall-visual .fw-ring{border-color:#9dbdac}.fw-core{background:radial-gradient(circle,#edf6ed,#dceade 70%);border-color:#6c9c83;box-shadow:0 0 55px rgba(54,119,94,.16)}.fw-core span,.fw-core small{color:#698178}.fw-node{background:#fff;border-color:#d4dfd4;color:#23463c;box-shadow:0 7px 20px rgba(30,70,58,.08)}.fw-node b{color:#2f765e}
+.metric-row{background:#fff;border-color:#d8e2d8}.metric-row article{border-color:#e1e8df}.metric-row span,.metric-row small{color:#75857d}.metric-row .warning{background:#f9f4e8}.metric-row .warning strong{color:#9d6d29}.section-head h2,.panel h2,.comparison-panel h2{color:#1a3a32}.journey-node{background:#fff;border-color:#d6e0d5;color:#23433a}.journey-node.complete{border-color:#84b195;background:#f2f8f1}.journey-node.alert{border-color:#d8bd84;background:#fbf7ed}.journey>i{background:#c9d8cd}.ipo-strip article{background:#fff;border-color:#d8e2d8}.ipo-strip span{color:#3b795f}.ipo-strip p{color:#6d7d75}
+.panel,.comparison-panel{background:rgba(255,254,250,.96);border-color:#d7e1d7;box-shadow:var(--shadow)}.badge.verified{color:#2d7155;background:#e6f2e8;border-color:#a5ceb1}.badge.needs{color:#946524;background:#f8f0df;border-color:#dec18b}.simulation-tag{color:#2e7457;border-color:#9bc2a8;background:#edf6ed}.case-row,.doc-row,.processing-banner,.requirement-list button,.finding-row,.review-row,.upload-card,.price-table>div,.architecture>div,.guardrails article,.management-grid>div,.comparison-results article,.applied-rule,.script-grid article{color:#203d35}.case-row{background:#fafbf7;border-color:#d9e2d8}.case-row.selected,.finding-row.selected,.review-row.selected{background:#eaf3e9;border-color:#9cbea7}.processing-banner,.applied-rule{background:#f3f7f1;border-color:#d8e2d7}.doc-type,.doc-preview,.doc-big{border-color:#b8cabd;color:#2f765e;background:#f5f8f3}.doc-row{border-color:#e1e8df}.upload-zone{border-color:#b7caba;background:#f9fbf7}.requirement-list button{background:#f7faf5;border-color:#d8e2d7}.requirement-list small,.text-button{color:#2f765e}
+.finding-row,.review-row{border-color:#e1e8df}.finding-explanation{color:#60746b}.evidence-tabs button{background:#f5f8f3;border-color:#d6e1d6;color:#5b7067}.evidence-tabs button.active{color:#1c4638;border-color:#6fa184;background:#e9f3e9}.evidence-document{background:#f7f9f4;border-color:#d8e1d7}.evidence-document blockquote,blockquote{background:#edf3eb;color:#29483f;border-color:#5f9679}.trace-chain>div{background:#f8faf6;border-color:#d8e2d7;color:#29483f}.trace-chain span{color:#36775e}.supplier-card{background:#fff;border-color:#d7e1d7;color:#23433a}.supplier-card:hover,.supplier-card.selected{background:#eaf3e9;border-color:#7fa88f}.supplier-id{background:#dfece2;color:#2e7057}.check-item{border-color:#e0e8df}.check-icon{background:#e2f1e6;color:#2f7858}.check-icon.missing{background:#f8eddc;color:#9a6b29}.check-item button,.evidence-link{color:#2f765e}.caution,.assumptions{background:#f8f3e8;border-color:#dcc58e;color:#755f3e}
+.baseline-compare>div{background:#fff;border-color:#d8e1d7}.baseline-compare .scenario-card{background:#eaf3e9;border-color:#82aa91}.toggle{background:#e7eee7;border-color:#cddacc}.toggle button{color:#6e7d76}.toggle button.active{background:#2f7159;color:#fff;box-shadow:0 5px 18px rgba(47,113,89,.2)}.control-group{border-color:#dfe7de}.switch{background:#ccd8ce}.switch.active{background:#35785e}.impact-grid>div{background:#f8faf6;border-color:#d9e2d8}.impact-grid span,.impact-grid small{color:#75857d}.bar-track{background:#dfe7df}.bar-fill{background:linear-gradient(90deg,#2f765e,#83b394)}.bar-fill.ineligible{background:#bdc8c0}.finding{background:#f9f3e8;border-color:#dcc18c;color:#4b4030}.finding>span{background:#ead8b6;color:#8f6227}
+select,.search-input,dialog input,textarea{background:#fff;border-color:#ccd9cd;color:#213c35}.evidence-link{background:#f6f9f4;border-color:#d7e1d7;color:#24443b}.gate-badge.blocked{color:#996925;background:#f8efdc;border-color:#d8b778}.gate-badge.ready{color:#2e7255;background:#e5f2e7;border-color:#9dc7a9}.gate-score>div{background:#f6faf5;border-color:#36775e}.gate-panel li,.audit-panel article,.knowledge-row,.knowledge-details div{border-color:#e0e8df}.audit-panel span,.knowledge-row>span{color:#36775e}.result-icon.bad{background:#f4dfdc;color:#a84c47}.result-icon.neutral{background:#f5ead2;color:#9b6c27}.result-icon.good{background:#dff0e4;color:#2d7254}.docs-tabs{border-color:#d8e2d8}.docs-tabs button{color:#708078}.docs-tabs button.active{color:#245f4d;border-color:#36775e}.api-list article,.flow-table{background:#fff;border-color:#d8e2d8}.flow-row{background:#fff;border-color:#e1e8df;color:#304b42}.flow-row.header{background:#eaf2e8;color:#567068}.post{color:#8a5d29}.get{color:#2d7456}.code-panel pre,.payload-example pre{background:#173b34}.demo-coach{background:#173e36;border-color:#6c9f87;color:#f0f7f3}.demo-coach p{color:#b4cbbf}.demo-coach>button{background:#285a4d;border-color:#477869}.demo-coach .primary{background:#4d8b6d}.toast{background:#173e36;border-color:#6a9a84;color:#fff}
+dialog{background:#fffefa;color:#1f3d34;border-color:#cdd9ce}.source-meta span{border-color:#cdd9ce;color:#62766c}.modal-note{color:#71827a}.risk{color:#9a6928}.primary{background:linear-gradient(135deg,#3d8064,#285f4d);border-color:#4f8e71;box-shadow:0 9px 24px rgba(42,104,80,.2)}.primary:hover{box-shadow:0 12px 30px rgba(42,104,80,.28)}.ghost{background:#fff;border-color:#ccd9cd;color:#2c5145}.ghost:hover{background:#eef5ed;border-color:#83aa92}.large-control{color:#1f463a}
+
+/* Final V3.1 surface pass: replace legacy dark content boxes with translucent mint. */
+.panel,
+.comparison-panel,
+.metric-row,
+.metric-row article,
+.journey-node,
+.ipo-strip article,
+.case-row,
+.doc-row,
+.processing-banner,
+.requirement-list button,
+.finding-row,
+.review-row,
+.upload-card,
+.upload-zone,
+.price-table>div,
+.baseline-compare>div,
+.impact-grid>div,
+.evidence-document,
+.trace-chain>div,
+.supplier-card,
+.evidence-link,
+.gate-score>div,
+.management-grid>div,
+.comparison-results article,
+.knowledge-row,
+.knowledge-details div,
+.guardrails article,
+.architecture>div,
+.script-grid article,
+.api-list article,
+.flow-table,
+.flow-row,
+.applied-rule,
+dialog{
+  background:rgba(218,239,221,.62);
+  border-color:rgba(105,153,122,.42);
+  box-shadow:0 10px 30px rgba(38,90,66,.055);
+  backdrop-filter:blur(12px);
+  -webkit-backdrop-filter:blur(12px)
+}
+.metric-row .warning,
+.journey-node.alert,
+.caution,
+.assumptions,
+.finding{
+  background:rgba(229,241,219,.68)
+}
+.journey-node.complete,
+.case-row.selected,
+.finding-row.selected,
+.review-row.selected,
+.supplier-card:hover,
+.supplier-card.selected,
+.baseline-compare .scenario-card,
+.evidence-tabs button.active,
+.flow-row.header{
+  background:rgba(190,225,199,.66)
+}
+.code-panel,
+.code-panel pre,
+.payload-example,
+.payload-example pre,
+pre{
+  background:rgba(205,232,211,.68)!important;
+  border-color:rgba(93,144,111,.42)!important;
+  color:#24483b!important;
+  box-shadow:none
+}
+.code-panel code,
+.payload-example code,
+pre code{color:#24483b}
+.code-panel .purple,
+.payload-example .purple,
+pre .purple{color:#684a86}
+.code-panel .green,
+.payload-example .green,
+pre .green{color:#267052}
+
